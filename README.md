@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins:ital,wght@1,700&size=30&pause=700&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;I'm+Ghulam+Qadir+Junejo+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins:ital,wght@1,900&size=52&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=1200&lines=Hi+There!+👋;I'm+Ghulam+Qadir+Junejo+💻" alt="Typing SVG" />
 </p>
 
 ---
